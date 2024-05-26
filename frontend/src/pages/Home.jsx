@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 
-=======
 import React, { useState } from 'react';
->>>>>>> 8031632230fddc9bca012526923de6ce7d527a1d
 import Sidebar from '../components/Sidebar';
 import Createpost from '../components/Createpost';
 import { FaCirclePlus } from "react-icons/fa6"; 
